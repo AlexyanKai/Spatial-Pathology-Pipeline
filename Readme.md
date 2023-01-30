@@ -2,15 +2,15 @@
 ## BasicSpatialAnalysis
 The basic analysis method  for SPT data in Seurat.
 
-First time use,install packages (Seuart)
-Source functions and packages
-Adjust the working directory to the directory where the function script is placed
-Data read and save
-Graphing, a preliminary look at the data distribution
-Citing single-cell sequencing dimensionality reduction methods
-dimensionality reduction
-Look at the gene expression of subpopulations.
-Look at the gene expression of subgroups after grouping according to pathological information
+* First time use,install packages (Seuart)
+- Source functions and packages
+* Adjust the working directory to the directory where the function script is placed
+- Data read and save
+* Graphing, a preliminary look at the data distribution
+- Citing single-cell sequencing dimensionality reduction methods
+* dimensionality reduction
+- Look at the gene expression of subpopulations.
+* Look at the gene expression of subgroups after grouping according to pathological information
 
 # Part 1
 ## DataIntegration&Merge
