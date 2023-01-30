@@ -1,6 +1,6 @@
 # Part 0  
 ## BasicSpatialAnalysis
-  The basic analysis method  for SPT data in [Seurat](./Part 0 BasicSpatialAnalysis/BasicSpatialAnalysis.R)
+  The basic analysis method  for SPT data in [Seurat](https://github.com/AlexyanKai/Spatial-Pathology-Pipeline/blob/main/Part%200%20BasicSpatialAnalysis/BasicSpatialAnalysis.R)
 
 * First time use, please install packages (Seuart)
 - Source functions and packages
